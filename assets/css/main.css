@@ -3907,3 +3907,16 @@ input, select, textarea {
 			}
 
 		}
+	
+	/* NEW */
+	.logo-container {
+		text-align: right;
+		margin-top: 1em;
+	}
+
+	.logo-container img {
+		max-width: 80%;
+		height: auto;
+		max-height: 100px;
+		object-fit: contain;
+	}
